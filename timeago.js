@@ -45,7 +45,7 @@
       strings: {
         prefixAgo: null,
         prefixFromNow: null,
-        suffixAgo: "önce yazıldı.",
+        suffixAgo: "önce yazıldı",
         suffixFromNow: "from now",
         seconds: "yaklaşık 1 dakika",
         minute: "1 dakika",
