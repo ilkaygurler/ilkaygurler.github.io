@@ -1,2 +1,1 @@
-
-<img alt="İlkay Gürler - Kişisel Blog" data-src="https://4.bp.blogspot.com/-A45Ra6ySBp4/XXJ-e77sdMI/AAAAAAAAAo8/uS5weMdyGBcat8gv_OnoISR0xPqbz3aOACK4BGAYYCw/s1600/logo-ilkaygurler.png" height="71" id="Header1_headerimg" src="https://4.bp.blogspot.com/-A45Ra6ySBp4/XXJ-e77sdMI/AAAAAAAAAo8/uS5weMdyGBcat8gv_OnoISR0xPqbz3aOACK4BGAYYCw/s1600/logo-ilkaygurler.png" title="İlkay Gürler - Kişisel Blog" width="220" data-was-processed="true">
+<a href="https://www.ilkaygurler.com"><img border="0" src="https://4.bp.blogspot.com/-A45Ra6ySBp4/XXJ-e77sdMI/AAAAAAAAAo8/uS5weMdyGBcat8gv_OnoISR0xPqbz3aOACK4BGAYYCw/s1600/logo-ilkaygurler.png" data-original-width="600" data-original-height="200" /></a>
