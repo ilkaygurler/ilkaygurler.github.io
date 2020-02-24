@@ -1093,14 +1093,14 @@ var _0x421b = function(_0x5979bd, _0x3c48ad) {
 var huh = document[_0x421b('0x342', '0z1m')](_0x421b('0x343', '0z1m'));
 document[_0x421b('0x344', '6Lc#')](_0x421b('0x345', '&1cg'), function() {
     function _0x2396a0() {
-        window[_0x421b('0x346', 'NtrE')][_0x421b('0x347', 'vfuB')] = 'https://www.ilkaygurler.com/';
+        window[_0x421b('0x346', 'NtrE')][_0x421b('0x347', 'vfuB')] = '';
     }
 
     function _0x138a30() {
         if (!huh) {
             _0x2396a0();
         };
-        if (huh[_0x421b('0x348', 'Z4lF')](_0x421b('0x349', '^pto')) != 'https://www.ilkaygurler.com/') {
+        if (huh[_0x421b('0x348', 'Z4lF')](_0x421b('0x349', '^pto')) != '') {
             _0x2396a0();
         };
         if (huh[_0x421b('0x34a', '0z1m')](_0x421b('0x34b', 'OTts')) != _0x421b('0x34c', 'R4J8')) {
